@@ -81,5 +81,3 @@ I built a react chat app using [https://chatengine.io](https://chatengine.io)
 Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
 
 ### Bonus - E-mail notifications
-
-https://github.com/Micholn/Envochat/blob/main/README.md
