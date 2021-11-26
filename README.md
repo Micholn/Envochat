@@ -51,5 +51,3 @@ tools to setup apps fast and easily - great to
 
 ## Introduction
 
-This is a code repository for the corresponding Envochat Realtime Chat Application with Social Auth 
-
