@@ -136,4 +136,4 @@ Runs the app in the development mode.\
  - [x] [Understanding the event loop and single threaded JavaScript by philip roberts](https://youtu.be/8aGhZQkoFbQ)
    #### UnderStanding Asynchronous JavaScript and MicroTask Queue
  - [x] [Understanding asynchronous JavaScript and microtask queue by Shelley Vohr](https://youtu.be/SrNQS8J67zc)
-   #### Must watch talk to understand JavaScript Concepts
+   
