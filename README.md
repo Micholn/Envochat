@@ -136,4 +136,4 @@ Runs the app in the development mode.\
 ## TensorFlow JS - Machine Learning
  - [x] [Neural networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
  - [x] [Machine learning by FunFunFunction](https://www.youtube.com/playlist?list=PL0zVEGEvSaeGmPpG8tAaqSmf3k56LPwiF)
- - [x] [Neural Networks - The Nature of Code by The Coding Train](https://www.youtube.com
+ - [x] [Neural Networks - The Nature of Code by The Coding Train]
