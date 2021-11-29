@@ -111,5 +111,4 @@ Runs the app in the development mode.\
  - [x] [Cracking the Frontend Interview by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9fkCH4XgL2GEh0Bd1IHEaGL)
  
 ## Interview Prep
- - [x] [Answering Tricky JS Interview Questions by Coding Tech](https://www.youtube.com/watch?v=MY0UBGX2FtA)
- -
+ 
