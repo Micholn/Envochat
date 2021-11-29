@@ -125,4 +125,4 @@ Runs the app in the development mode.\
     #### Thinking Recursively and Tail Call Optimization
  - [x] [Recursion, Iteration, and JavaScript: A Love Story - Anjana Vakil](https://www.youtube.com/watch?v=FmiQr4nfoPQ)
     #### Garbage Collection in JavaScript
- - [x] [The Hitchhiker's Guide to All Things Memory in Javascript by Safia Abdalla](https://www.youtube.com/watch?
+ 
