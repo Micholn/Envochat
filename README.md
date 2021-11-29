@@ -131,6 +131,4 @@ Runs the app in the development mode.\
  - [x] [JavaScript engines - how do they even? by Franziska Hinkelmann](https://www.youtube.com/watch?v=p-iiEDtpy6I)
 
 ## TypeScript
- ## Must Watch Talks
-
  
