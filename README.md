@@ -108,5 +108,3 @@ Runs the app in the development mode.\
 
 ## Frontend Interview Prep
  - [x] [Core Javascript Fundamentals by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9eLVlWFs-nz5PKXJU4f7Fks)
- - [x] [Cracking the Frontend Interview by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9fkCH4XgL2GEh0Bd1IHEaGL)
- 
