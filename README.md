@@ -133,5 +133,3 @@ Runs the app in the development mode.\
 ## TypeScript
  - [x] [TypeScript for Beginners by JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
 
-## TensorFlow JS - Machine Learning
- 
