@@ -1079,6 +1079,3 @@ Runs the app in the development mode.\
 - [x] [20+ Vannila JS Projects](https://www.youtube.com/playlist?list=PLjEBqWnjXGvbNIcb43GeVx8q8mpeUYe3X)
 - [x] [You Don't Know JS Yet by Kyle Simpsom(e-book)](https://github.com/getify/You-Dont-Know-JS)
 
-## 33-JS Concepts
-- [x] [33 Concepts Every JavaScript Developer Should Know(github)](https://github.com/leonardomso/33-js-concepts)
-
