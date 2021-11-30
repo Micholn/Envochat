@@ -1181,5 +1181,3 @@ Runs the app in the development mode.\
  - [x] [The Algorithms (Github)](https://github.com/TheAlgorithms/Javascript)
 
 
-## Github Version Control
-
