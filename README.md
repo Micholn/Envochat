@@ -1132,12 +1132,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-# JavaScript RoadMap :rocket:
-
-- [x] [The Complete Web Developer RoadMap](https://medium.com/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e)
-
-#### ❤❤❤❤❤❤[Mozila Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)❤❤❤❤❤❤❤❤
-
