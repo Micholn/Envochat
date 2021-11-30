@@ -1145,5 +1145,3 @@ Runs the app in the development mode.\
 - [x] how to use stack over flow?
 - [x] how to use the documentation of the technology which you are learning?
 
-## HTML & CSS              
-                  
