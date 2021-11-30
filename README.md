@@ -1159,11 +1159,3 @@ Runs the app in the development mode.\
 - [x] [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/share/101WkwCUcdcV9WQnQ=/)             
 
 
-## Kick Starters
-
-- [x] [JavaScript for Beginners by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
-- [x] [JavaScript Course for Beginners 2020 - Learn JavaScript from Scratch! by Academind](https://youtu.be/2qDywOS7VAc)
-- [x] [JavaScript DOM Manipulation by Brad Traversy](https://www.youtube.com/playlist?list=PLjEBqWnjXGvaieUGAESixHWNiE2u4eR5K)
-- [x] [Web Dev Concepts to Grasp(Feel free to skip and watch when supposed to use any of these)](https://www.youtube.com/playlist?list=PLjEBqWnjXGvb4ZvWLpHVmi-JwqcqFlufn)
-- [x] [Build 15 JavaScript Projects - Vanilla JavaScript Course by FreeCodeCamp](https://www.youtube.com/watch?v=3PHXvlpOkf4)
-- [x] [Topics of JavaScript/ES6-ES8 - p5.js Tutorial by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-
