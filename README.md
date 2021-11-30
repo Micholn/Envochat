@@ -1030,22 +1030,3 @@ Runs the app in the development mode.\
 
 ## Frontend Interview Prep
  - [x] [Core Javascript Fundamentals by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9eLVlWFs-nz5PKXJU4f7Fks)
-# Github-jbot
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-# JavaScript RoadMap :rocket:
-
-- [x] [The Complete Web Developer RoadMap](https://medium.com/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e)
-
-#### ❤❤❤❤❤❤[Mozila Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)❤❤❤❤❤❤❤❤
-
