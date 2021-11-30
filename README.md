@@ -1212,4 +1212,3 @@ Runs the app in the development mode.\
 ## Blockchain with Javascript
  - [x] [Building a blockchain with Javascript](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4)
 
-## Frontend Interview Prep
