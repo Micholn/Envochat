@@ -1199,5 +1199,4 @@ Runs the app in the development mode.\
  - [x] [Functional Programming in JavaScript by funfunfunctions](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
  
 ## Object Creation In JavaScript
- - [x] [Object Creation in JavaScript by Funfunfunctions](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
- 
+ - [x] [Object Creation in JavaScript by Funfunfunctions](https://www.youtube.com/playlist?
