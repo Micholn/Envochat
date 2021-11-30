@@ -990,10 +990,3 @@ Runs the app in the development mode.\
 ## 33-JS Concepts
 - [x] [33 Concepts Every JavaScript Developer Should Know(github)](https://github.com/leonardomso/33-js-concepts)
 
-## Data Structures And Algorithms     
-
-   🤑💵 Paid Course 💵🤑             
- - [x] [JavaScript Algorithms and Data Structures Masterclass by Colt Steele (Udemy)](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
- - [x] [The Algorithms (Github)](https://github.com/TheAlgorithms/Javascript)
-
-
