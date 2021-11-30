@@ -1124,7 +1124,3 @@ Runs the app in the development mode.\
  - [x] [Core Javascript Fundamentals by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9eLVlWFs-nz5PKXJU4f7Fks)
 # Github-jbot
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
