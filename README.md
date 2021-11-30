@@ -1195,5 +1195,3 @@ Runs the app in the development mode.\
  - [x] [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
  
  
-## Functional Programming With JavaScript
- - [x] [Functional Programming in JavaScript by funfunfunctions](https://www.youtube.com/playlist?
