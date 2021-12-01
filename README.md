@@ -52,5 +52,3 @@ Runs the app in the development mode.\
 
 - [x] [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/share/101WkwCUcdcV9WQnQ=/)             
 
-
-[x] [Topics of JavaScript/ES6-ES8 - p5.js Tutorial by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-
