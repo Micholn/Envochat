@@ -103,4 +103,3 @@ Runs the app in the development mode.\
 ## Javascript Design Patterns
  - [x] [Design Patterns in Vanilla JavaScript by DevSage](https://www.youtube.com/playlist?list=PLjEBqWnjXGvZtvsys_GyExkBxvyJytT9H)
  
-## Blockchain with Javascript
