@@ -140,5 +140,3 @@ Runs the app in the development mode.\
  - [x] [TensorFlow.js - Intelligence and Learning by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ)
  - [x] [TensorFlow.js Color Classifier by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bmMRCIoTi72aNWHo7epX4L)
 
-## Progressive Web Apps
- 
