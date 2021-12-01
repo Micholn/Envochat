@@ -70,5 +70,4 @@ Runs the app in the development mode.\
 
 ## Data Structures And Algorithms     
 
-   🤑💵 Paid Course 💵🤑             
  
