@@ -85,5 +85,3 @@ Runs the app in the development mode.\
    🤑💵 Paid Course 💵🤑                               
  - [x] [JavaScript: Understanding the Weird Parts - Full Course(remaining 8 hours) by Anthony Alicea](https://www.udemy.com/share/101XjU/)
  
-## Google Chrome Developer Tools
- 
