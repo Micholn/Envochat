@@ -96,5 +96,4 @@ Runs the app in the development mode.\
  - [x] [Object Creation in JavaScript by Funfunfunctions](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
  
 ## Clean Code Practices
- - [x] [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
- 
+ - [x] [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-
