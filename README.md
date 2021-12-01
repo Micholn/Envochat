@@ -90,4 +90,4 @@ Runs the app in the development mode.\
  
  
 ## Functional Programming With JavaScript
- - [x] [Functional Programming in JavaScript by funfunfunctions](https://www.youtube.com/playlist?
+ 
