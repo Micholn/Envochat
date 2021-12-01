@@ -83,4 +83,3 @@ Runs the app in the development mode.\
 ## JavaScript Under The Hood
  - [x] [JavaScript: Understanding the Weird Parts - The First 3.5 Hours by Anthony Alicea](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)                             
    🤑💵 Paid Course 💵🤑                               
- - [x] [JavaScript: Understanding the Weird Parts - Full Course(remaining 8 hours) by Anthony Alicea]
