@@ -520,5 +520,3 @@ Runs the app in the development mode.\
  - [x] [PWA Tutorial for Beginners by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
 # Github-jbot
 
-# Getting Started with Create React App
-
