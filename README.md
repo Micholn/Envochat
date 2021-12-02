@@ -545,4 +545,3 @@ Runs the app in the development mode.\
                   
 - [x] [HTML & CSS Crash Course Tutorial by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)   
 - [x] [CSS FlexBox in 20 mins by Traversy Media](https://www.youtube.com/watch?v=JJSoEo8JSnc)
-- [x] [flexbox cheatSheet (website)](http://flexbox.malven.co/)
