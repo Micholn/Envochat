@@ -570,6 +570,4 @@ Runs the app in the development mode.\
 ## 33-JS Concepts
 - [x] [33 Concepts Every JavaScript Developer Should Know(github)](https://github.com/leonardomso/33-js-concepts)
 
-## Data Structures And Algorithms     
 
-  
