@@ -550,5 +550,4 @@ Runs the app in the development mode.\
 - [x] [CSS Grid cheatsheet (website)](http://grid.malven.co/)
 - [x] [Check out Kevin Powell YouTube Channel for CSS Tricks](https://www.youtube.com/user/KepowOb)             
 
-     🤑💵 Paid Course 💵🤑                
-
+    
