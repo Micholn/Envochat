@@ -491,15 +491,3 @@ Runs the app in the development mode.\
  - [x] [Front-end-Developer-Interview-Questions(github)](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
  - [x] [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 
-## Must Watch Talks
-
- - [x] [Understanding the event loop and single threaded JavaScript by philip roberts](https://youtu.be/8aGhZQkoFbQ)
-   #### UnderStanding Asynchronous JavaScript and MicroTask Queue
- - [x] [Understanding asynchronous JavaScript and microtask queue by Shelley Vohr](https://youtu.be/SrNQS8J67zc)
-   #### Must watch talk to understand JavaScript Concepts
- - [x] [Rediscovering JavaScript by Venkat Subramaniam](https://www.youtube.com/watch?v=dxzBZpzzzo8)
-    #### Thinking Recursively and Tail Call Optimization
- - [x] [Recursion, Iteration, and JavaScript: A Love Story - Anjana Vakil](https://www.youtube.com/watch?v=FmiQr4nfoPQ)
-    #### Garbage Collection in JavaScript
- - [x] [The Hitchhiker's Guide to All Things Memory in Javascript by Safia Abdalla](https://www.youtube.com/watch?v=AeUCN2lPqL8&t=920s)
-   
