@@ -643,4 +643,3 @@ Runs the app in the development mode.\
  - [x] [TensorFlow.js Color Classifier by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bmMRCIoTi72aNWHo7epX4L)
 
 ## Progressive Web Apps
- - [x] [PWA Tutorial for Beginners by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
