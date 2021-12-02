@@ -599,5 +599,4 @@ Runs the app in the development mode.\
  
 ## Clean Code Practices
  - [x] [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
- - [x] [Clean code by yanmcdermott (github) ](https://github.com/ryanmcdermott/clean-code-javascript)
  
