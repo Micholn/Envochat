@@ -543,4 +543,4 @@ Runs the app in the development mode.\
 
 ## HTML & CSS              
                   
-- [x] [HTML & CSS Crash Course Tutorial by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)   
+- [x] [HTML & CSS Crash Course Tutorial by The Net Ninja](https://www.youtube.com/playlist?
