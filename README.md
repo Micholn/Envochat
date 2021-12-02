@@ -535,5 +535,3 @@ Runs the app in the development mode.\
 
 - [x] [The Complete Web Developer RoadMap](https://medium.com/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e)
 
-#### ❤❤❤❤❤❤[Mozila Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)❤❤❤❤❤❤❤❤
-
