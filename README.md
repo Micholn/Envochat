@@ -533,5 +533,3 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 # JavaScript RoadMap :rocket:
 
-- [x] [The Complete Web Developer RoadMap](https://medium.com/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e)
-
