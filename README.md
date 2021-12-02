@@ -573,5 +573,4 @@ Runs the app in the development mode.\
 ## Data Structures And Algorithms     
 
    🤑💵 Paid Course 💵🤑             
- - [x] [JavaScript Algorithms and Data Structures Masterclass by Colt Steele (Udemy)](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
  
