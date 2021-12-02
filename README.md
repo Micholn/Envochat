@@ -537,7 +537,3 @@ Runs the app in the development mode.\
 
 #### ❤❤❤❤❤❤[Mozila Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)❤❤❤❤❤❤❤❤
 
-### key is to learn
-- [x] how to use stack over flow?
-- [x] how to use the documentation of the technology which you are learning?
-
