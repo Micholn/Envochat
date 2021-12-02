@@ -615,5 +615,4 @@ Runs the app in the development mode.\
 ## Interview Prep
  - [x] [Answering Tricky JS Interview Questions by Coding Tech](https://www.youtube.com/watch?v=MY0UBGX2FtA)
  - [x] [Front-end-Developer-Interview-Questions(github)](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
- - [x] [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
-
+ 
