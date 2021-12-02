@@ -542,5 +542,3 @@ Runs the app in the development mode.\
 - [x] how to use the documentation of the technology which you are learning?
 
 ## HTML & CSS              
-                  
-- [x] [HTML & CSS Crash Course Tutorial by The Net Ninja](https://www.youtube.com/playlist?
