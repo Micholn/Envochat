@@ -34,5 +34,3 @@ Firebase and Chat Engine are greats tools to setup apps fast and easily - great 
 
 ## Introduction
 
-This is a code repository for the corresponding Envochat Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
-
