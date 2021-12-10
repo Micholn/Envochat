@@ -126,4 +126,3 @@ Firebase and Chat Engine are greats tools to setup apps fast and easily - great 
 
 tools to setup apps fast and easily - great to learn with!
 
-https://github.com/Micholn/Envochat/edit/main/README.md
